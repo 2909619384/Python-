@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 ![1527694599252](C:\Users\63458\AppData\Local\Temp\1527695109551.png)![1527694619880](C:\Users\63458\AppData\Local\Temp\1527694619880.png)
 
+=======
+![1527694599252](C:\Users\63458\AppData\Local\Temp\1527695109551.png)![1527694619880](C:\Users\63458\AppData\Local\Temp\1527694619880.png)
+
+>>>>>>> 6d4205fb0fed2dc1dfdd3a97b24ef7614dc38163
 ![1527694654028](C:\Users\63458\AppData\Local\Temp\1527694654028.png)
